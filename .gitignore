@@ -1,0 +1,15 @@
+# latex files
+*.aux
+*.log
+*.toc
+*.out
+*.bbl
+*.blg
+*.lof
+*.lot
+*.pdf
+# python script
+*.py
+*.txt
+# vscode settings
+/.vscode/
