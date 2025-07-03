@@ -1,6 +1,6 @@
 # 紅樓夢（Dream of Red Chamber）電子書
-https://img.shields.io/github/license/EF-Lin/Dream-of-Red-Chamber
-https://img.shields.io/github/release/EF-Lin/Dream-of-Red-Chamber
+![LICENSE](https://img.shields.io/github/license/EF-Lin/Dream-of-Red-Chamber)
+![Releases](https://img.shields.io/github/release/EF-Lin/Dream-of-Red-Chamber)
 
 ## 簡介
 《紅樓夢》，又名《石頭記》，作者曹雪芹，中國四大小說之一，章回小說的巔峰之作，書中集傳統文化大成，呈現出中國古代封建社會的百般樣貌，細膩描寫貴族大家的興衰迭起與悲歡離合，可說是中國文學史上最重要的藝術品與著作。
