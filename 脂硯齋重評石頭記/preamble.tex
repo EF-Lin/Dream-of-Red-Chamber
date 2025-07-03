@@ -1,0 +1,35 @@
+\usepackage{hyperref}
+
+% Chinese
+\usepackage{xeCJK}
+
+% font
+\setCJKmainfont{新細明體}
+% \setCJKmainfont{標楷體}
+
+% indent
+\usepackage{indentfirst}
+\setlength{\parindent}{2em}
+\renewenvironment{quote}
+  {\list{}{\leftmargin=2em}%
+   \item\relax}
+  {\endlist}
+
+% rename title
+\usepackage{tocloft}
+\renewcommand{\contentsname}{目錄}
+% \renewcommand{\bibname}{參考文獻}
+
+% content number
+\renewcommand{\cftchappresnum}{第}
+\renewcommand{\cftchapnumwidth}{4em}
+\renewcommand{\cftchapaftersnum}{回\quad}
+
+% refresh footnote
+\usepackage{chngcntr}
+\counterwithin*{footnote}{chapter}
+
+% title
+\usepackage{titlesec}
+\titleformat{\chapter}[display]{\centering\Large\bfseries}{第\thechapter 回}{20pt}{}
+\pagestyle{plain}
